@@ -1,0 +1,10 @@
+Hey, j'espère que ce projet te trouveras en bonne santé.
+Il te sera démander de reproduire le site avec Bootstrap **uniquement la page d'accueil** en allant sur le lien ci-dessous: 
+
+Le Site à Réproduire: https://yango.com/fr_ci/city/abidjan
+
+Héberger le site réaliser de façon individuel sur votre compte Github et envoyer le lien de votre site sur moodle.
+
+Nb: Utiliser les compétences vues lors des séances de cours pour pourvoir récupérer les images.
+   Vous avez la Liberté d'améliorer le site avec vos idéés Personnelles **uniquement la page d'accueil**.
+ 
