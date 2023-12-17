@@ -5,11 +5,15 @@
     text-decoration: none;
 }
 
-.background{
+
+
+nav{
+
     background-color: #ff0000;
-    height: 100px;
+    height: auto;
     text-decoration: none;
-    font-family: Luckiest Guy;    
+    font-family: Luckiest Guy; 
+    
 }
 
 .image{
@@ -88,10 +92,27 @@ button:hover{
 
 /* Les media Queries */
 
-@media  (max-width: 768px) {
-    ul{  
-        width: auto;
-        flex-direction: column; 
-        align-items: center;
+@media screen and (max-width: 933px;){
+
+    .nav-cont{
+        flex-direction: row;
+    }
+
+    .yango-passager{
+        display: none;
+    }
+
+    .DIV-MODIF{
+        opacity: 1;
+    }
+
+    .list-déroulante{
+        flex-direction: column;
     }
 }
+
+.DIV-MODIF{
+    opacity: 0;
+    background-color: white;
+}
+    
